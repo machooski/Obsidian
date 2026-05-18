@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "89ba5a767b66939e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c060dd43c9b94cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7bac4168dae9e03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/MOC - AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC - AI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30ebea9ca6674c6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b5e18617ee2df0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8694bbb4b94746e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "167fbfd150fc8f3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2d8943ae62768af9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3fd170860a2d628",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec7bcab99bbd3cc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c7de9a876cc5a96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wiki/MOC - AI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MOC - AI"
+            }
+          },
+          {
+            "id": "f4eb5e4b4f192f3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wiki/MOC - AI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MOC - AI"
+            }
+          },
+          {
+            "id": "89e3cc3a74d81639",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f5dff6a24af8c6cf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "386ae171c71bec61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wiki/MOC - AI.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MOC - AI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f7bac4168dae9e03",
+  "lastOpenFiles": [
+    "MOC - Programming.md",
+    "Claude.md",
+    "Wiki/MOC - AI.md",
+    "Wiki/AI/LLM Wrappers Agents and Frameworks.md",
+    "Wiki/AI/MCP Server.md",
+    "Wiki/AI/Local LLM Runtimes and Services.md",
+    "Wiki/AI/Setting Up an MCP Server.md",
+    "Welcome.md",
+    "Wiki/AI",
+    "Wiki"
+  ]
+}
