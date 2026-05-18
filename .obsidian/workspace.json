@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/MOC - AI.md",
+                "file": "Wiki/AI/Setting Up an MCP Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC - AI"
+              "title": "Setting Up an MCP Server"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 329.5
   },
   "right": {
     "id": "d3fd170860a2d628",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/MOC - AI.md",
+                "file": "Wiki/AI/Setting Up an MCP Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MOC - AI"
+              "title": "Backlinks for Setting Up an MCP Server"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/MOC - AI.md",
+                "file": "Wiki/AI/Setting Up an MCP Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MOC - AI"
+              "title": "Outgoing links from Setting Up an MCP Server"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/MOC - AI.md",
+                "file": "Wiki/AI/Setting Up an MCP Server.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MOC - AI"
+              "title": "Outline of Setting Up an MCP Server"
             }
           }
         ]
@@ -185,13 +185,20 @@
   },
   "active": "f7bac4168dae9e03",
   "lastOpenFiles": [
-    "MOC - Programming.md",
-    "Claude.md",
-    "Wiki/MOC - AI.md",
-    "Wiki/AI/LLM Wrappers Agents and Frameworks.md",
     "Wiki/AI/MCP Server.md",
-    "Wiki/AI/Local LLM Runtimes and Services.md",
     "Wiki/AI/Setting Up an MCP Server.md",
+    "Wiki/Programming/Node.js.md",
+    "Wiki/Programming/The JavaScript Ecosystem.md",
+    "Wiki/Programming/Next.js.md",
+    "Wiki/MOC - AI.md",
+    "Wiki/MOC - Programming.md",
+    "Wiki/AI/JSON-RPC.md",
+    "JSON-RPC 2.0.md",
+    "Untitled.canvas",
+    "Wiki/Programming",
+    "Claude.md",
+    "Wiki/AI/LLM Wrappers Agents and Frameworks.md",
+    "Wiki/AI/Local LLM Runtimes and Services.md",
     "Welcome.md",
     "Wiki/AI",
     "Wiki"

@@ -152,7 +152,8 @@ npx @modelcontextprotocol/inspector
 - [[JSON-RPC]] — the underlying message format MCP uses
 - [[AI Agent]] — agents are the primary users of MCP tools
 - [[Claude]] — the AI model created by Anthropic that pioneered MCP
-
+- [[Setting Up an MCP Server]]
+- 
 ## References
 
 - [Model Context Protocol — Official Docs](https://modelcontextprotocol.io)
