@@ -294,6 +294,7 @@ const nextConfig = {
 ---
 
 ## Related Notes
+- [[React]] — the UI library Next.js builds on for components and state
 - [[Node.js]] — the runtime Next.js runs on
 - [[The JavaScript Ecosystem]] — how React, Node, npm, and Next.js fit together
 - [[MOC - Programming]] — parent index

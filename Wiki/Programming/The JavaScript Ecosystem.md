@@ -45,13 +45,13 @@ JavaScript started as a language for web browsers. Over time, people wanted to u
 
 ## The Origin Story — Why So Many Things?
 
-| Year | What happened | Why it mattered |
-|------|--------------|-----------------|
-| **1995** | JavaScript created (Netscape) | Browsers could now respond to user actions |
-| **2009** | Node.js released | JS could run on servers — same language, both ends |
-| **2010** | npm launched | Reusable packages could be shared and installed in one command |
-| **2013** | React released by Facebook | Building complex UIs became manageable with components |
-| **2016** | Next.js released by Vercel | React apps could render on the server, fixing SEO and performance |
+| Year     | What happened                 | Why it mattered                                                   |
+| -------- | ----------------------------- | ----------------------------------------------------------------- |
+| **1995** | JavaScript created (Netscape) | Browsers could now respond to user actions                        |
+| **2009** | Node.js released              | JS could run on servers — same language, both ends                |
+| **2010** | npm launched                  | Reusable packages could be shared and installed in one command    |
+| **2013** | React released by Facebook    | Building complex UIs became manageable with components            |
+| **2016** | Next.js released by Vercel    | React apps could render on the server, fixing SEO and performance |
 
 Each layer was created because the previous one was powerful but incomplete for real-world use.
 
@@ -154,7 +154,7 @@ npm solves the problem of "I don't want to write everything from scratch." It gi
 
 ### Layer 4 — React the UI Library
 
-React's one job: manage UI components and update them efficiently when data changes.
+React's one job: manage UI components and update them efficiently when data changes. See [[React]] for the dedicated note with component examples.
 
 The big ideas React introduced:
 - **Components** — reusable, self-contained UI pieces (a Button, a Card, a Nav)
@@ -273,5 +273,6 @@ NEXT_PUBLIC_API_URL="https://..."   # NEXT_PUBLIC_ prefix = safe for browser
 
 ## Related Notes
 - [[Node.js]] — the runtime that runs everything
+- [[React]] — the component-based UI library in the middle of the stack
 - [[Next.js]] — the framework at the top of the stack
 - [[MOC - Programming]] — parent index

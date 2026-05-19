@@ -111,15 +111,15 @@ npx -y @modelcontextprotocol/server-filesystem ./my-folder
 
 ## Popular Pre-Built Servers
 
-| Server | npm package | What it does |
-|--------|-------------|--------------|
-| **Filesystem** | `@modelcontextprotocol/server-filesystem` | Read/write local files in a folder |
-| **GitHub** | `@modelcontextprotocol/server-github` | Search repos, read files, manage issues |
-| **Brave Search** | `@modelcontextprotocol/server-brave-search` | Web search via Brave API |
-| **Puppeteer** | `@modelcontextprotocol/server-puppeteer` | Control a browser, scrape pages |
-| **SQLite** | `@modelcontextprotocol/server-sqlite` | Query a local SQLite database |
-| **Memory** | `@modelcontextprotocol/server-memory` | Persistent key-value memory for the AI |
-| **Fetch** | `@modelcontextprotocol/server-fetch` | Fetch and read web page content |
+| Server           | npm package                                 | What it does                            |
+| ---------------- | ------------------------------------------- | --------------------------------------- |
+| **Filesystem**   | `@modelcontextprotocol/server-filesystem`   | Read/write local files in a folder      |
+| **GitHub**       | `@modelcontextprotocol/server-github`       | Search repos, read files, manage issues |
+| **Brave Search** | `@modelcontextprotocol/server-brave-search` | Web search via Brave API                |
+| **Puppeteer**    | `@modelcontextprotocol/server-puppeteer`    | Control a browser, scrape pages         |
+| **SQLite**       | `@modelcontextprotocol/server-sqlite`       | Query a local SQLite database           |
+| **Memory**       | `@modelcontextprotocol/server-memory`       | Persistent key-value memory for the AI  |
+| **Fetch**        | `@modelcontextprotocol/server-fetch`        | Fetch and read web page content         |
 
 Full list: [modelcontextprotocol.io/servers](https://modelcontextprotocol.io/servers)
 

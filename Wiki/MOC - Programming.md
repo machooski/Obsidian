@@ -25,7 +25,14 @@ aliases:
 ## JavaScript & the Web Stack
 - [[The JavaScript Ecosystem]] — how JavaScript, Node.js, npm, React, and Next.js all fit together (start here)
 - [[Node.js]] — what Node is, the event loop, npm, and what you build with it
+- [[React]] — the UI library for reusable components, state, and composition
 - [[Next.js]] — the React framework: routing, SSR/SSG, App Router, Server Components
+- [[Canvas]] — documentation for the Trigger Canvas web app stack and UI components
+- [[SQL]] — core database language used by the stack
+- [[SQL Commands]] — practical SQL command usage and examples
+- [[Supabase]] — backend platform and database layer
+- [[NextAuth]] — authentication and session management
+- [[Recharts]] — charting library for dashboard visuals
 
 ## Languages
 <!-- Add notes like: TypeScript, Python, SQL, etc. -->
